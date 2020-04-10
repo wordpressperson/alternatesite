@@ -26,21 +26,21 @@ class Contact extends Component {
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                     <i className="fa fa-phone-square" aria-hidden="true"/>
-                    (234) 813-239-2693
+                    (234) 0802-0766-690
                   </ListItemContent>
                 </ListItem>
 
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                     <i className="fa fa-instagram" aria-hidden="true"/>
-                    iamnotyetmarried
+                    covenantolodo
                   </ListItemContent>
                 </ListItem>
 
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                     <i className="fa fa-envelope" aria-hidden="true"/>
-                    info@covenantolodo.com
+                    covenantolodo@gmail.com
                   </ListItemContent>
                 </ListItem>
 
