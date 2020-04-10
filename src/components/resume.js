@@ -28,9 +28,9 @@ class Resume extends Component {
             <h5>Address</h5>
             <p>Km 4, Ipetu, Omu Aran, Kwara State</p>
             <h5>Phone</h5>
-            <p>(234) 813-239-2693</p>
+            <p>(234) 0802-0766-690</p>
             <h5>Email</h5>
-            <p>info@covenantolodo.com</p>
+            <p>covenantolodo@gmail.com</p>
             <h5>Web</h5>
             <p>covenantolodo.com</p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
