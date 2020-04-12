@@ -6,7 +6,7 @@ import Skills from './skills';
 import Avater from '../assets/img/avater2.png';
 
 
-class Resume extends Component {
+class About extends Component {
   render() {
     return(
       <div>
@@ -94,4 +94,4 @@ class Resume extends Component {
   }
 }
 
-export default Resume;
+export default About;

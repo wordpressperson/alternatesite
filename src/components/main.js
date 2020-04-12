@@ -5,8 +5,8 @@ import LandingPage from './landingpage';
 import Homepage from './homepage';
 import AboutMe from './aboutme';
 import Contact from './contact';
-import Projects from './projects';
-import Resume from './resume';
+import HallOfFame from './halloffame';
+import About from './about';
 
 
 const Main = () => (
@@ -15,8 +15,8 @@ const Main = () => (
     <Route path="/multimims" component={Homepage} />
     <Route path="/aboutme" component={AboutMe} />
     <Route path="/contact" component={Contact} />
-    <Route path="/projects" component={Projects} />
-    <Route path="/resume" component={Resume} />
+    <Route path="/halloffame" component={HallOfFame} />
+    <Route path="/about" component={About} />
   </Switch>
 )
 
