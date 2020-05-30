@@ -13,7 +13,6 @@ class App extends Component {
             <Navigation>
                 <Link to="/">Home</Link>
                 <Link to="/about">About Me</Link>
-                <Link to="/halloffame">Hall of Fame</Link>
                 <Link to="/contact">Contact</Link>
             </Navigation>
         </Header>
