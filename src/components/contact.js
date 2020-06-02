@@ -32,7 +32,7 @@ class Contact extends Component {
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                     <i className="fa fa-instagram" aria-hidden="true"/>
-                    iamnotyetmarried
+                    covenantolodo
                   </ListItemContent>
                 </ListItem>
 
