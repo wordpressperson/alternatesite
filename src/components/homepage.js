@@ -303,7 +303,7 @@ class Homepage extends Component {
     <div className="container">
       <div className="row align-items-center">
         <div className="col-md-4">
-          <span className="copyright">Copyright &copy; CovenantOlodo 2020</span>
+          <span className="copyright">Copyright &copy; CovenantOlodo {new Date().getFullYear()}</span>
         </div>
         <div className="col-md-4">
           <ul className="list-inline social-buttons">
