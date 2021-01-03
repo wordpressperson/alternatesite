@@ -146,7 +146,7 @@ class Homepage extends Component {
       <div className="row">
         <div className="col-sm-4">
           <div className="team-member">
-            <img className="mx-auto rounded-circle" src="img/team/1.jpg" alt=""/>
+            <img className="mx-auto rounded-circle" src="img/mario.png" alt="mariolow"/>
             <h4>Raziela Snow</h4>
             <p className="text-muted">Landmark University</p>
             <ul className="list-inline social-buttons">
@@ -170,7 +170,7 @@ class Homepage extends Component {
         </div>
         <div className="col-sm-4">
           <div className="team-member">
-            <img className="mx-auto rounded-circle" src="img/team/2.jpg" alt=""/>
+            <img className="mx-auto rounded-circle" src="img/muyiwa.png" alt=""/>
             <h4>Irene Bish</h4>
             <p className="text-muted">Covenant University</p>
             <ul className="list-inline social-buttons">
@@ -194,7 +194,7 @@ class Homepage extends Component {
         </div>
         <div className="col-sm-4">
           <div className="team-member">
-            <img className="mx-auto rounded-circle" src="img/team/3.jpg" alt=""/>
+            <img className="mx-auto rounded-circle" src="img/avater2.png" alt="avaterisbae"/>
             <h4>Melvin Annalise</h4>
             <p className="text-muted">LUSS and CUSS</p>
             <ul className="list-inline social-buttons">

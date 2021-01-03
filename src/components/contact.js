@@ -14,7 +14,7 @@ class Contact extends Component {
               alt="avatar"
               style={{height: '70%', width: '90%'}}
                />
-             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>The board of trustees of World Mission Agency is responsible for the appointment of members of the Board of Regents (Governing Council) of Landmark University. The Board is the apex governing body of the University.</p>
+             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>The board of trustees of World Mission Agency is responsible for the appointment of members of the Board of Regents.</p>
           </Cell>
           <Cell col={6}>
             <h2>Contact Me</h2>
